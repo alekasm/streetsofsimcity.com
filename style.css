@@ -76,7 +76,7 @@ nav ul {
 
 table {
   font-family: arial, sans-serif;  
-  width: 100%;
+  width: 70%;
 }
 
 td, th {
@@ -95,7 +95,6 @@ tr:nth-child(even) {
  
 article {
 	padding:20px;
-	height:100%;
 	overflow-y:auto;  
 	overflow-x:hidden;
 	background-color: #f1f1f1;
